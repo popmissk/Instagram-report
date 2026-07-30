@@ -87,7 +87,7 @@ https://t.me/Fluxra2
 
 https://fluxra.tech/
 
-----
+---
 
 <div align="center">
 
