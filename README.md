@@ -73,9 +73,6 @@ https://fluxra.tech/
 
 ----
 
-## 📊 Platform Status
-
-🕒 Last updated: 2026-06-30 16:25 UTC
 
 
 ## 📬 Contact
