@@ -43,7 +43,7 @@
 </p>
 <br>
 
-----
+-----
 
 ## 💎 Getting Access
 
